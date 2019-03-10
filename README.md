@@ -12,3 +12,4 @@ This repository contains all of the notes taken by [Hao Jiang](https://github.co
   * [Day 3](/Week1/Day3)
   * [Day 4](/Week1/Day4)
   * [Day 5](/Week1/Day5)
+  * [Day 6](/Week1/Day6)
